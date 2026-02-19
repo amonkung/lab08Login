@@ -90,3 +90,4 @@ if(isset($_POST['update'])){
 ?>
 </body>
 </html>
+<?php include 'footer.php'; ?>

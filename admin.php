@@ -125,3 +125,4 @@ if(isset($_POST['save'])){
 
 </body>
 </html>
+<?php include 'footer.php'; ?>
